@@ -1,0 +1,4 @@
+# Requerimientos del módulo de autenticación
+
+REQ-LOGIN-01: El sistema debe validar campos vacíos.
+REQ-LOGIN-02: El sistema debe validar longitud mínima de contraseña.
