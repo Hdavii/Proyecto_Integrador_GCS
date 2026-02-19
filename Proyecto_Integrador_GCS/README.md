@@ -30,4 +30,7 @@ Se mejora la documentación del proyecto.
 ## Tecnologías usadas
 - Git
 - GitHub
-- Python
+- Python 
+
+## Gestión de Incidencias
+Se creó un Issue para documentar el desarrollo y control del proyecto.
