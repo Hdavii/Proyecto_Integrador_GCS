@@ -33,4 +33,7 @@ Se mejora la documentación del proyecto.
 - Python 
 
 ## Gestión de Incidencias
-Se creó un Issue para documentar el desarrollo y control del proyecto.
+Se creó un Issue para documentar el desarrollo y control del proyecto. 
+
+## Control de Versiones
+Se creó la etiqueta v1.0 correspondiente a la versión final del proyecto.
