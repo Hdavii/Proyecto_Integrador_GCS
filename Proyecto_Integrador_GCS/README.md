@@ -20,4 +20,14 @@ Este proyecto implementa control de versiones utilizando Git y GitHub.
 Autor: Holger David Zambrano Barberán
 
 ## Actualización 1
-Se mejora la documentación del proyecto.
+Se mejora la documentación del proyecto. 
+
+## Estructura del proyecto
+- Módulo de autenticación
+- Control de versiones
+- Gestión de issues
+
+## Tecnologías usadas
+- Git
+- GitHub
+- Python
